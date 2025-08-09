@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Dataset files (if dataset is large or sensitive, do NOT commit)
+age_interest_career_dataset.csv
+
+# Logs and outputs
+*.log
+*.out
+
+# TensorFlow and Keras checkpoints (if any)
+checkpoint
+*.h5
+*.ckpt
+
+# Misc
+.DS_Store
