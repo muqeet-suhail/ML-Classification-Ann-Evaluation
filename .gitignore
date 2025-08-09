@@ -26,9 +26,6 @@ build/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-# Dataset files (if dataset is large or sensitive, do NOT commit)
-age_interest_career_dataset.csv
-
 # Logs and outputs
 *.log
 *.out
